@@ -1,4 +1,4 @@
-# Assigment1
+# Assignment1
 
 # Kalkulator
 
